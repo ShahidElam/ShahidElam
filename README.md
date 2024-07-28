@@ -1,6 +1,6 @@
 
 
-<h1>Hi, I'm Shahid! <br/><a href="https://github.com/shahidelam">Programmer</a>, <a href="https://www.linkedin.com/in/shahidelam/">Cybersecurity Professional</a>
+<h1>Hi, I'm Shahid! <br/><a href="https://github.com/shahidelam">It Specialist</a>, <a href="https://www.linkedin.com/in/shahidelam/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
