@@ -1,8 +1,8 @@
 
 
-<h1>Hi, I'm Shahid! <br/><a href="https://github.com/shahidelam">It Specialist</a>, <a href="https://www.linkedin.com/in/shahidelam/">Cybersecurity Professional</a>
+<h1>Hi, I'm Shahid! <br/><a href="https://github.com/shahidelam">IT Specialist</a>, <a href="https://www.linkedin.com/in/shahidelam/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity and IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
